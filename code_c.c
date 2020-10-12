@@ -1,2 +1,1 @@
-code c
-sssss
+lap trinh c
